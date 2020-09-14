@@ -12,6 +12,5 @@
 		else{
 			"error:". $conn->error;
 		}
-	
 	}
 ?>
